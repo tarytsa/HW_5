@@ -1,0 +1,6 @@
+C:\Users\acer\source\repos\HW_5\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\acer\source\repos\HW_5\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\acer\source\repos\HW_5\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\acer\source\repos\HW_5\Dictionary\obj\Debug\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\HW_5\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\acer\source\repos\HW_5\Dictionary\obj\Debug\Dictionary.pdb
